@@ -68,7 +68,7 @@ function Footer() {
                         <div className="col-md col-12">
                             <ul>
                                 <li><a href="https://wa.me/919080416643?text=Hi%20team%2C%20I%20need%20a%20support!" target="_blank" rel="noreferrer"> Help & Center </a></li>
-                                <li><a href="/terms.html">Terms of Services</a></li>
+                                <li><Link to="/terms">Terms of Services</Link></li>
                                 <li><a href="/privacy.html">Privacy Policy</a></li>
                             </ul>
                         </div>
